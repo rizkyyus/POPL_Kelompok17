@@ -1,0 +1,16 @@
+{
+    "name": "rizkyyusmansyah/news-portal-project",
+    "license": "\"MIT\"",
+    "autoload": {
+        "psr-4": {
+            "Rizkyyusmansyah\\NewsPortalProject\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Rizky Yusmansyah",
+            "email": "yusmansyah@mhs.usk.ac.id"
+        }
+    ],
+    "require": {}
+}
