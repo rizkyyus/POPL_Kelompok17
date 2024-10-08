@@ -1,11 +1,8 @@
 {
     "name": "rizkyyusmansyah/news-portal-project",
-    "license": "\"MIT\"",
-    "autoload": {
-        "psr-4": {
-            "Rizkyyusmansyah\\NewsPortalProject\\": "src/"
-        }
-    },
+    "description": "newsportal",
+    "type": "project",
+    "license": "proprietary",
     "authors": [
         {
             "name": "Rizky Yusmansyah",
